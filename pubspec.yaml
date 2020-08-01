@@ -1,6 +1,8 @@
 name: telephony
-description: A new flutter plugin project.
+description: A Flutter plugin to use telephony features.
 version: 0.0.1
+homepage: https://shounakmulay.gitbook.io/telephony
+repository: https://github.com/shounakmulay/Telephony
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -8,6 +10,7 @@ environment:
 
 dependencies:
   platform: ^2.0.0
+  collection: ^1.14.12
   flutter:
     sdk: flutter
 
