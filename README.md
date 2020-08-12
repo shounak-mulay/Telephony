@@ -1,6 +1,6 @@
 # Telephony
 |:exclamation: This plugin currently only works on Android Platform|
-|------------------------------------------------------------------|
+|------------------------------------------------------------------ |
 
 
 A Flutter plugin to use telephony features such as
